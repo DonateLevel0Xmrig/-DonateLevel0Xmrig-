@@ -25,7 +25,7 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * **[Workers](http://workers.xmrig.info)** helps manage your miners via HTTP API.
 
 ## Donations
-* Default donation
+* Default donation "0 !!!!"
 
 ## Developers
 * **[xmrig](https://github.com/xmrig)**
